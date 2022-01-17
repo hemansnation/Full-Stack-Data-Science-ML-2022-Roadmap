@@ -1,6 +1,6 @@
 # Full-Stack-DataScience-ML-Roadmap
 
-I completed my Master of Technology in Data Science, no doubt it is an amazing field. I studied 18 different subjects, completed 1 Thesis, and 1 capstone project in my 2 years of MTech journey.
+I completed my <b>Master of Technology</b> in <b>Data Science</b>, no doubt it is an amazing field. I studied 18 different subjects, completed 1 Thesis, and 1 capstone project in my 2 years of MTech journey.
 
 With all those subjects I am able to build a roadmap for all those who want to get a kick start as Data Scientist.
 
@@ -23,5 +23,4 @@ The roadmap is divided into 12 sections
 12. Five Major Projects and Git
 
 
-**To understand the complexities of any technology, clear the fundamentals first.
-**
+<b>To understand the complexities of any technology, clear the fundamentals first.</b>
