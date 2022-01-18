@@ -1,4 +1,4 @@
-# Full-Stack-DataScience-ML-Roadmap
+# Full-Stack-DataScience-ML-2022-Roadmap
 
 I completed my <b>Master of Technology</b> in <b>Data Science</b>, no doubt it is an amazing field. I studied 18 different subjects, completed 1 Thesis, and 1 capstone project in my 2 years of MTech journey.
 
